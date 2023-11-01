@@ -1,0 +1,1140 @@
+CRITICAL - 2023-10-11 06:33:18 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:33:27 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:34:55 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:36:27 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:36:28 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:44:45 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:44:46 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:45:30 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 06:45:34 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('3)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:47:41 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:48:16 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:48:17 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:48:26 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:48:56 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:49:29 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:49:30 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:49:35 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:51:47 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 07:51:51 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1)')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 08:30:03 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 08:30:05 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(155): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:16:03 --> Call to undefined method App\Models\Product::getAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:16:17 --> Call to undefined method App\Models\Product::getAllResult
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAllResult', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:16:26 --> Call to undefined method App\Models\Product::getAllResults
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAllResults', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:16:27 --> Call to undefined method App\Models\Product::getAllResults
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAllResults', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:16:28 --> Call to undefined method App\Models\Product::getAllResults
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAllResults', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:46:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:47:00 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:47:01 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:47:44 --> Undefined array key 0
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:47:45 --> Undefined array key 0
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:48:00 --> Undefined array key 0
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:48:00 --> Undefined array key 0
+in APPPATH\Controllers\MainController.php on line 154.
+ 1 APPPATH\Controllers\MainController.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 154)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:57:18 --> Call to undefined method App\Models\Product::getAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:57:19 --> Call to undefined method App\Models\Product::getAll
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Model->__call('getAll', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:57:34 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:57:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 09:57:35 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::findAll()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:29:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+in APPPATH\Controllers\MainController.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:29:05 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+in APPPATH\Controllers\MainController.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:29:19 --> Call to undefined method App\Models\Product::getAllResults
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Model->__call('getAllResults', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:29:19 --> Call to undefined method App\Models\Product::getAllResults
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Model->__call('getAllResults', [])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:58:41 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:58:47 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:59:01 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:59:03 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:59:29 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 10:59:30 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:00:54 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::Get()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:00:56 --> Call to undefined method CodeIgniter\HTTP\IncomingRequest::Get()
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:16:49 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:16:50 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:19:49 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 11:20:52 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:28:25 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:02 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:03 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:47 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:50 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:51 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:51 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:34:51 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(162): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:40:57 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(165): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:40:58 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(165): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:41:41 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(165): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:41:41 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(165): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:54:16 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:54:17 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:54:19 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:14 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:16 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:38 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:39 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:42 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:42 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:57:44 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 12:58:06 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:00:01 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:00:02 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:04:08 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:50:29 --> Call to undefined method App\Models\Product::getRow
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Model->__call('getRow', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:50:37 --> Call to undefined method App\Models\Product::getRow
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Model->__call('getRow', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 13:55:37 --> Call to undefined method App\Models\Product::getRow
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Controllers\MainController.php(152): CodeIgniter\Model->__call('getRow', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 14:11:24 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 14:11:25 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 14:12:18 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 14:12:25 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(163): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:13:41 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getResultArray
+in APPPATH\Controllers\MainController.php on line 155.
+ 1 APPPATH\Controllers\MainController.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getResultArray', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 155)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:13:42 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getResultArray
+in APPPATH\Controllers\MainController.php on line 155.
+ 1 APPPATH\Controllers\MainController.php(155): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getResultArray', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 155)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:20:49 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(157): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:20:50 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(157): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:24:09 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(157): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:24:10 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(157): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:24:11 --> Failed to parse JSON string. Error: Malformed UTF-8 characters, possibly incorrectly encoded
+in SYSTEMPATH\Format\JSONFormatter.php on line 41.
+ 1 SYSTEMPATH\Format\JSONFormatter.php(41): CodeIgniter\Format\Exceptions\FormatException::forInvalidJSON('Malformed UTF-8 characters, possibly incorrectly encoded')
+ 2 SYSTEMPATH\HTTP\ResponseTrait.php(322): CodeIgniter\Format\JSONFormatter->format([...])
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(248): CodeIgniter\HTTP\Response->formatBody([...], 'json')
+ 4 APPPATH\Controllers\MainController.php(157): CodeIgniter\HTTP\Response->setJSON([...])
+ 5 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 6 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 7 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:30:01 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:30:02 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:30:53 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:30:54 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:31:44 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:31:49 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:31:50 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:34:34 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:34:35 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:34:37 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:00 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:02 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:03 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:03 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:04 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:38:04 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:07 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:08 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:11 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:25 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:27 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:40:28 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:45:06 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:45:07 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-11 21:45:07 --> Undefined property: App\Controllers\MainController::$input
+in APPPATH\Controllers\MainController.php on line 151.
+ 1 APPPATH\Controllers\MainController.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$input', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->edit_product()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')

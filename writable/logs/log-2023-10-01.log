@@ -1,0 +1,112 @@
+CRITICAL - 2023-10-01 02:38:10 --> Undefined property: App\Controllers\MainController::$product
+in APPPATH\Controllers\MainController.php on line 16.
+ 1 APPPATH\Controllers\MainController.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\MainController::$product', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 16)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 02:38:44 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 02:39:06 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 02:39:08 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 02:39:09 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 03:48:17 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 03:53:27 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 03:54:56 --> Class "App\Controllers\App\Models\Product" not found
+in APPPATH\Controllers\MainController.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\MainController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 03:55:09 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 03:55:11 --> Call to a member function findAll() on null
+in APPPATH\Controllers\MainController.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 11:46:08 --> syntax error, unexpected identifier "this"
+in APPPATH\Controllers\MainController.php on line 53.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\MainController')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\MainController')
+ 4 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\MainController', true)
+ 5 SYSTEMPATH\CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 13:12:28 --> Undefined variable $userModel
+in APPPATH\Controllers\MainController.php on line 47.
+ 1 APPPATH\Controllers\MainController.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userModel', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 13:15:46 --> Undefined constant "App\Controllers\username"
+in APPPATH\Controllers\MainController.php on line 59.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 13:16:07 --> Undefined variable $userModel
+in APPPATH\Controllers\MainController.php on line 62.
+ 1 APPPATH\Controllers\MainController.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userModel', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 62)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
+CRITICAL - 2023-10-01 13:17:14 --> Undefined array key "id"
+in APPPATH\Controllers\MainController.php on line 70.
+ 1 APPPATH\Controllers\MainController.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\laragon\\www\\Ecommerce\\app\\Controllers\\MainController.php', 70)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')

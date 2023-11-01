@@ -1,0 +1,10 @@
+CRITICAL - 2023-10-05 03:51:16 --> syntax error, unexpected identifier "style", expecting "," or ";"
+in APPPATH\Views\admin.php on line 60.
+ 1 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin', [], true)
+ 3 APPPATH\Controllers\MainController.php(20): view('admin', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\MainController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MainController))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\Ecommerce\\public\\index.php')
